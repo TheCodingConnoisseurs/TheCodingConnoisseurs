@@ -30,7 +30,7 @@ Stay updated and be part of our growing community:
 
 ## 🔄 Previous GitHub Profile
 This is our **new official GitHub profile**! You can still explore our **older GitHub profile** for previous projects and contributions here:  
-[![Old GitHub](https://img.shields.io/badge/Old%20GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Coding-Connoisseurs)  
+[![Old GitHub](https://img.shields.io/badge/Old%20GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cc-foet/)  
 
 ## ⚡ Our Motto
 "**Code, Innovate, Inspire!**" 🚀 
